@@ -16,3 +16,5 @@ notes.txt
 # Home Assistant configuration
 config/*
 !config/configuration.yaml
+stromligning.code-workspace
+/config/*
